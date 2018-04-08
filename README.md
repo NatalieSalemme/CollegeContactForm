@@ -1,2 +1,2 @@
 # CollegeContactForm
-Sample contact form for a university
+Sample contact form for a university using HTML and CSS.
