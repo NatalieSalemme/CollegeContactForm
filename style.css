@@ -1,0 +1,32 @@
+body {
+  background-color: #daffb3;
+  text-align: center;
+}
+tr {
+  color:green;
+}
+#submit {
+  background-color:green;
+  color:white;
+}
+#reset {
+  background-color:green;
+  color:white;
+}
+form {
+  color:green;
+}
+radio {
+  align: center;
+}
+#table1 {
+  color:red;
+  border:1px;
+}
+.radio.term {
+  color:black;
+}
+
+table {
+  text-align: center;
+}
