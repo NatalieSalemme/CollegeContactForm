@@ -1,6 +1,6 @@
 body {
   background-color: #daffb3;
-  text-align: center;
+ 
 }
 tr {
   color:green;
@@ -8,25 +8,30 @@ tr {
 #submit {
   background-color:green;
   color:white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 #reset {
   background-color:green;
   color:white;
-}
-form {
-  color:green;
-}
-radio {
-  align: center;
-}
-#table1 {
-  color:red;
-  border:1px;
-}
-.radio.term {
-  color:black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
+#terms {
+  color: black;
+}
+
+
 table {
-  text-align: center;
+  margin:auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
